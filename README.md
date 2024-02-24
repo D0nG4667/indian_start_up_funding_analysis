@@ -23,6 +23,11 @@ This repository contains data analysis and insights into the funding landscape o
 - Plotly
 - Jupyter Notebooks
 - Git
+- Scipy
+
+```bash
+conda install numpy pandas matplotlib seaborn plotly jupyter scipy 
+```
 
 ### How to Contribute
 1. Fork the repository and clone it to your local machine.
