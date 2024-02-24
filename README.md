@@ -26,7 +26,7 @@ This repository contains data analysis and insights into the funding landscape o
 - Scipy
 
 ```bash
-conda install numpy pandas matplotlib seaborn plotly jupyter scipy 
+conda install jupyter numpy pandas matplotlib seaborn plotly scipy 
 ```
 
 ### How to Contribute
